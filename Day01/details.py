@@ -1,2 +1,2 @@
 name = 'jyoshna'
-print(name)
+print('my name is name',name)
